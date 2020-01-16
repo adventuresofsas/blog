@@ -55,7 +55,7 @@ color: #008080;
 }
 
 time {
-font: 700 1rem "Montserrat";
+font: 600 1rem "Montserrat";
 color:  #004d4d;
 }
 
@@ -71,7 +71,7 @@ color: #808080;
 
 figcaption p {
 margin-top: 0.5rem;
-font: 1rem/1.5 "Montserrat";
+font: 0.8rem/1.5 "Montserrat";
 color:  #cccccc;
 }
 
